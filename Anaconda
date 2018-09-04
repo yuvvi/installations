@@ -1,0 +1,44 @@
+################################################################
+#     Author      : Yuvaram Aligeti
+#     Date        : 4th, Sep 2018
+#     Description : Managing Python environment with conda
+#
+################################################################
+1. Creating new conda environment
+	>conda create --name <PROJECT NAME> python=<PYTHON VERSION> <INSTALLATION PACKAGES LIST>
+	>conda create --name project1 python=3.5 pip
+	>conda create -n project1 python=3.5 pip
+	
+	Default python version points to highest python version in anaconda
+	
+2. Start existing project1
+	(base)>activate project1
+
+3. New package installation
+	(project1)>pip install matplotlib
+	
+	(project1)>conda install matplotlib
+		main adv of conda installation is to verify list of packages installed
+
+		(project1)>conda list --explicit
+	
+4. Exit from current project environment
+	(project1)>deactivate
+	
+5. List of environments
+	(base)>conda info --envs
+	
+6. Remove "project1" environment
+	(base)>conda remove --name project1 --all
+	
+7. Creating requirement file, which can be shared in a team to setup same environment
+	(project1)>list --explicit> project1_req.txt
+	
+	Using project1_req.txt to create new environment as specified in requirement.txt
+	(base)>create -n project1bc --file project1_req.txt
+	
+		Project name can be anything, but environment will be as specified in .txt file
+
+8. Help in anaconda
+	>conda -help
+	
