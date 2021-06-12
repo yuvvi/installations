@@ -29,4 +29,10 @@ Tool installations &amp; usages guide
 
 # Machine Learning Tools
 1. Octave
-2. 
+
+# IDE
+1. Anaconda
+2. Qt
+3. Eclipse
+4. NetBean
+5. MSVC
