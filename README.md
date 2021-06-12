@@ -20,9 +20,13 @@ Tool installations &amp; usages guide
 3. sublime (Code edit)
 
 # Other
-1. Rufus (bootable pendrive creation)
-2. flowgorithm (Flow chart) http://www.flowgorithm.org/download/index.htm
-3. inkscape (Photo, Video, poster & wallpaper creation and edit) https://inkscape.org/
-4. Gimp (image edit) https://www.gimp.org/
-5. Flow chart https://app.diagrams.net/
+1. Rufus (bootable pendrive creation - windows)
+2. balenaEtcher (Bootable pendrive creation)
+3. flowgorithm (Flow chart) http://www.flowgorithm.org/download/index.htm
+4. inkscape (Photo, Video, poster & wallpaper creation and edit) https://inkscape.org/
+5. Gimp (image edit) https://www.gimp.org/
+6. Flow chart https://app.diagrams.net/
 
+# Machine Learning Tools
+1. Octave
+2. 
