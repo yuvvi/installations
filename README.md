@@ -26,13 +26,18 @@ Tool installations &amp; usages guide
 4. inkscape (Photo, Video, poster & wallpaper creation and edit) https://inkscape.org/
 5. Gimp (image edit) https://www.gimp.org/
 6. Flow chart https://app.diagrams.net/
+7. Latex (Resume creation) https://www.sharelatex.com/
+8. Whimsical (Flow chart) https://whimsical.com/
+9. Diagrams (Flow chart) https://app.diagrams.net/
+10. Word clouds (All names in diff shapes) https://www.wordclouds.com/
 
 # Machine Learning Tools
 1. Octave
 
 # IDE
 1. Anaconda
-2. Qt
-3. Eclipse
-4. NetBean
-5. MSVC
+2. Jupyter
+3. Qt
+4. Eclipse
+5. NetBean
+6. MSVC
