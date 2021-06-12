@@ -17,8 +17,10 @@ Tool installations &amp; usages guide
 # Editing 
 1. Notepad++
 2. Beyond compare
+3. sublime
 
 # Other
 1. Rufus (bootable pendrive creation)
-2. 
+2. flowgorithm http://www.flowgorithm.org/download/index.htm
+3. inkscape (Photo, VIdeo, poster & wallpaper creation and edit) https://inkscape.org/
 
